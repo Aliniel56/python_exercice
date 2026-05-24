@@ -2,7 +2,7 @@ how_many_notes = int(input("Combien de notes veux tu rentrer ? : "))
 
 first_note = float(input("Qu'elle est la note à rentrer ? : "))
 
-total_notes = 0
+total_notes = first_note
 highest = first_note
 lowest = first_note
 
