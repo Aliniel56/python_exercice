@@ -1,3 +1,4 @@
+#Exercice 6
 count = 1
 total = 0
 while count <=100:
