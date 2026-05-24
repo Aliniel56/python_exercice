@@ -4,7 +4,7 @@ secret = random.randint(1, 100)
 attempts = 0
 found = False
 
-print("Je pense à un nombre entre 1 et 100. A toi de le deviner !")
+print("Je pense à un nombre entre 1 et 100. A toi de le deviner, mais attention, tu n'as le droit qu'à 7 essaies. Bonne chance !")
 
 while not found and attempts < 7:
     guess = int(input("Ton essai : "))
