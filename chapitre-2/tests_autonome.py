@@ -13,3 +13,9 @@ if age >= 18 and is_member:
     print("Accès autorisé")
 else:
     print("Accès refusé")
+
+number = -1
+while number <= 0:
+    number = int(input("Entre un nombre : "))
+print("Merci ! Tu as entré", number)
+
