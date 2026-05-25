@@ -1,3 +1,4 @@
+#Exercice 4
 def rectangle_area(width, height):
     return width * height
 def rectangle_perimeter(width, height):
